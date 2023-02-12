@@ -45,39 +45,18 @@ Due to the imbalanced nature of the dataset (User who churned << User who did no
 
 Libraries used:
 aws-cfn-bootstrap          2.0
+
 beautifulsoup4             4.9.3
-boto                       2.49.0
-click                      8.1.3
-cycler                     0.11.0
-docutils                   0.14
-fonttools                  4.38.0
-jmespath                   1.0.1
+
 joblib                     1.2.0
-kiwisolver                 1.4.4
-lockfile                   0.11.0
-lxml                       4.9.1
+
 matplotlib                 3.5.3
-mysqlclient                1.4.2
-nltk                       3.7
-nose                       1.3.4
+
 numpy                      1.20.0
+
 packaging                  23.0
+
 pandas                     1.0.5
-Pillow                     9.4.0
+
 pip                        20.2.2
-py-dateutil                2.2
-pyparsing                  3.0.9
-pystache                   0.5.4
-python-daemon              2.2.3
-python-dateutil            2.8.2
-python37-sagemaker-pyspark 1.4.2
-pytz                       2022.6
-PyYAML                     5.4.1
-regex                      2021.11.10
-setuptools                 28.8.0
-simplejson                 3.2.0
-six                        1.13.0
-tqdm                       4.64.1
-typing-extensions          4.4.0
-wheel                      0.29.0
-windmill                   1.6
+
