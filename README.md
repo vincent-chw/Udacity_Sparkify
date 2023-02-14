@@ -1,19 +1,11 @@
 # Udacity_Sparkify
 Udacity Capstone
 
-Installations
-
-
 Project Motivation
-
+Churn prediction is a crucial task in data science, as it helps businesses identify customers who are likely to leave and take actions to retain them. By analyzing historical data on customer behaviour, a churn prediction model can identify patterns and trends that indicate a high risk of churn. This allows a company to take proactive measures to retain at-risk customers, such as offering promotions or providing personalized customer service. Overall, churn prediction can help companies increase revenue and customer loyalty by reducing customer turnover.
 
 File Descriptions
-
-
-How to Interact with your project
-
-
-Licensing, Authors, Acknowledgements
+Udacity_Sparkify.ipynb contains the codes from start to finish. 
 
 Predicting Customer Churn Using Pyspark
 
@@ -42,6 +34,8 @@ Three different models which are suitable for classification problems shall be t
 Conclusion
 Due to the imbalanced nature of the dataset (User who churned << User who did not churn), the F1 score is used as the performance criteria. The results show that the Random Forest model obtained the highest F1 score. 
 
+My Medium blog post can be found in the link below:
+https://vincent-chw.medium.com/predicting-customer-churn-using-pyspark-on-amazon-emr-dd0e9fbe8abd
 
 Libraries used:
 aws-cfn-bootstrap          2.0
